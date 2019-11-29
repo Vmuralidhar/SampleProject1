@@ -9,7 +9,7 @@
 109,ramana,JAVAscript,2800
 110,ramesh,scala,3000
 111,manish,SCALA,2500
-112,somu,c,2000
+112,somu,c,2000   
 113,raghu,c++,3400
 114,dilip,javascript,3500
 115,mohan,aws,14000
